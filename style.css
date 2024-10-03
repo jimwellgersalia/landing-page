@@ -36,6 +36,12 @@ hr {
     opacity: 1;  
 }
 
+.btn-setup {
+	display: flex;
+/*	margin-left: 4rem;
+	border-color: ;*/
+}
+
 
 .btn {
 	font-weight: 700;
@@ -46,12 +52,6 @@ hr {
 .btn-primary {
 	background-color: #001F3F;
 	border-color: #001F3F;
-}
-
-.btn-primary:hover {
-	background-color: #001F3F;
-	border-color: #001F3F;
-	border-width: 4px;
 }
 
 .btn-xl {
