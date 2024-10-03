@@ -59,10 +59,6 @@ hr {
 	padding: 1rem 2rem;
 }
 
-li:hover {
-	scale: 1.1;
-}
-
 :hover	{
 	scale: 1.2x;
 }
