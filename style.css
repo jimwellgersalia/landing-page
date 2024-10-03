@@ -59,10 +59,6 @@ hr {
 	padding: 1rem 2rem;
 }
 
-:hover	{
-	scale: 1.2x;
-}
-
 .copyright {
 	float: right;
 	color: #001F3F;
