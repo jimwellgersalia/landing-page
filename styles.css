@@ -12,7 +12,7 @@ body {
 .container-header {
   background-color: #1f2937;
   color: #e5e7eb;
-  padding: 10px 150px;
+  padding: 10px 200px;
 }
 
 .header {
@@ -78,7 +78,6 @@ a {
   font-weight: 900;
   color: #f9faf8;
   border-radius: 8px;
-  border-color: white;
   font-size: 15px;
 }
 
