@@ -57,6 +57,7 @@ a {
 
 .main {
   width: 400px;
+  height: auto;
 }
 
 .header-main {
@@ -86,6 +87,11 @@ a {
   justify-content: center;
   align-items: center;
   background-color: gray;
+}
+
+.header-image {
+  height: 250px;
+  width: 700px;
 }
 
 /*  info cards*/
@@ -119,10 +125,11 @@ a {
 
 .card-description {
   margin-top: 10px;
+  text-align: center;
 }
 
 .card-image {
-  height: 400px;
+  height: 220px;
   border: 1px solid #3882f6;
   border-radius: 6px;
 }
